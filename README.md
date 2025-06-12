@@ -1,4 +1,12 @@
 ## Hi there 👋
+use .env
+CLIENT_ID=d9cbb699-6827-44a5-8d59-8b1befa816da
+CLIENT_SECRET=tVJaaaR8SeXcRXeM
+ACCESS_CODE=xgAsNC
+ROLL_NO=aalbb
+EMAIL=ramkrishna@abc.edu
+NAME=ram krishna
+
 
 <!--
 **2303A51L25/2303A51L25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
